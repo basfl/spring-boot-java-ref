@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+<metaDatas>
+<metaData>
+<e>
+<key>k1</key>
+<values>
+<value>v1</value>
+<value>v2</value>
+</values>
+</e>
+
+</metaData>
+</metaDatas>
+</response>

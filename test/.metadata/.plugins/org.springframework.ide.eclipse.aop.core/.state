@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="joker-app"/>
+<aop-project name="sfg-pet-clinic"/>
+<aop-project name="di-demo"/>
+<aop-project name="di-demo-2"/>
+<aop-project name="spring5webapp"/>
+<aop-project name="spring-petclinic"/>
+<aop-project name="pet-clinic-data"/>
+<aop-project name="pet-clinic-web"/>
+</aop-reference-model>

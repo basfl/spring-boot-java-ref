@@ -1,0 +1,19 @@
+package com.reactive;
+
+import io.reactivex.Observable;
+import io.reactivex.functions.Consumer;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        Observable<String> observable = Observable.just("how", "to", "do", "in", "java");
+        Consumer<String> consume=System.out::println;
+        observable.subscribe(consume);
+    }
+}

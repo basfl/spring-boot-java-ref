@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539728685654_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=pet-clinic-data/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=pet-clinic-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=pet-clinic-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539728685660_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=pet-clinic-data/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=pet-clinic-web/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539728922257_2" label="sfg-pet-clinic" name="sfg-pet-clinic">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sfg-pet-clinic-master" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pet-clinic-data" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pet-clinic-web" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539740181837_3" label="Window Working Set" name="Aggregate for window 1539740181837"/>
+</workingSetManager>

@@ -1,0 +1,5 @@
+package com.graphql.springbootgraphql.service.datafetcher;
+
+public class AllBooksDataFetcher {
+
+}

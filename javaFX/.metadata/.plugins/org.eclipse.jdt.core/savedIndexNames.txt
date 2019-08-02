@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\jupit\ide\sts-workspaces\javaFX\.metadata\.plugins\org.eclipse.jdt.core
+1330107420.index
+2285492893.index
+3685656647.index
+3687501370.index
+3589762966.index
+1734703654.index

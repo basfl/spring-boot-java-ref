@@ -1,0 +1,5 @@
+package guru.springframework.controllers.examplebeans;
+
+public class FakeSource {
+
+}

@@ -1,0 +1,19 @@
+package com;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Metadata {
+	List<Entery> e=new ArrayList<>();
+
+	public List<Entery> getE() {
+		return e;
+	}
+
+	public void setE(List<Entery> e) {
+		this.e = e;
+	}
+
+	
+
+}

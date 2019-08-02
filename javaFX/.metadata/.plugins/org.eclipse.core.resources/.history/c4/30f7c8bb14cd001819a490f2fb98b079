@@ -1,0 +1,27 @@
+package application;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+
+public class MainController {
+	@FXML
+	private Label status;
+	@FXML
+	private TextField username;
+	@FXML
+	private TextField password;
+	public void login(ActionEvent e) {
+		if(username.getText().equals("user")&&password.getText().equals("pass")) {
+			status.setText("Login Succe");
+		}else {
+			status.setText("failed");
+		}
+	}
+	
+
+	
+
+
+}

@@ -1,0 +1,27 @@
+package com.demo;
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.StackPane;
+import javafx.stage.Stage;
+
+public class HelloWorld extends Application {
+
+	public static void main(String[] args) {
+		launch(args);
+
+	}
+
+	@Override
+	public void start(Stage primaryStage) throws Exception {
+		Button btn = new Button("click me!!");
+		StackPane root = new StackPane(); // layout
+		root.getChildren().add(btn);// layout
+		Scene scene = new Scene(root,500,300); //scene
+		primaryStage.setScene(scene); //scene
+		primaryStage.show();
+
+	}
+
+}

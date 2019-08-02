@@ -1,0 +1,5 @@
+package com.graphql.springbootgraphql.model;
+
+public class Book {
+
+}

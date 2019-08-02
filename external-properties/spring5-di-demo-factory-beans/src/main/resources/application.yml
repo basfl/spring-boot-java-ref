@@ -1,0 +1,11 @@
+guru:
+    jms:
+        user: jms
+        password: pa!
+        url: jmshfjhgfjhg
+        
+    
+---
+spring :
+    profiles: de
+    
