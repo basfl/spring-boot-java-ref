@@ -12,14 +12,15 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 @Configuration
 public class SwaggerConfig {
-	//http://localhost:8080/swagger-ui.html#/
+	// http://localhost:8080/swagger-ui.html#/
 	@Bean
-    public Docket api() { 
-        return new Docket(DocumentationType.SWAGGER_2)  
-          .select()                                  
-          .apis(RequestHandlerSelectors.any())              
-          .paths(PathSelectors.any())                          
-          .build();                                           
-    }
+	public Docket api() {
+		return new Docket(DocumentationType.SWAGGER_2).select().apis(RequestHandlerSelectors.any())
+				.paths(PathSelectors.any()).build();
+	}
+//private ApiInfo metaInfo() {
+//		return new ApiInfo("title:Swagger2 example", "description:swagger document for rest api", 1.0, "term:open source", "contact:baslf", "licence:open source", "licence URL");
+//
+//	}
 
 }
