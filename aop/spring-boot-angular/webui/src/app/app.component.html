@@ -1,0 +1,11 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<ul>
+ 
+  <li><a *ngIf="!isSignin ; else elseBlock" [routerLink]="['/login']" >login</a>
+    <ng-template #elseBlock><a [routerLink]="['/login']" (click)="signout()" >signout</a></ng-template>
+  </li>
+  <li><a  [routerLink]="['/api']" >home</a></li>
+ 
+</ul>
+
+<router-outlet></router-outlet>

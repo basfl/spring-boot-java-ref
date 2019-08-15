@@ -1,0 +1,21 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<form  style="border:1px solid #ccc" (ngSubmit)="onSubmit()" #f="ngForm">
+  <div class="container">
+    <h1>Signin</h1>
+    <p>Please fill in this form to signin.</p>
+    <hr>
+
+    <label for="email"><b>UserName</b></label>
+    <input type="text" placeholder="userName" name="userName" required [(ngModel)]="user.userName">
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="pass" required [(ngModel)]="user.pass">
+    <div>
+      <a  class="a" [routerLink]="['/signup']" >Signup</a>
+    </div>
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Signin</button>
+    </div>
+  </div>
+</form>
