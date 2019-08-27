@@ -1,0 +1,1 @@
+# This is a client that interact with eureka server to invoke URL

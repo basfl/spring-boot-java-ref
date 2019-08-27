@@ -33,6 +33,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\jupit\ide\sts-workspaces\aop\spring-boot-angular"/>
 			<item value="C:\Users\jupit\ide\sts-workspaces\swagger"/>
 		</list>
 		<list key="projectNameTemplate">
