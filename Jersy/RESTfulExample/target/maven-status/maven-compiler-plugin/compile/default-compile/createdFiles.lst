@@ -1,0 +1,11 @@
+gov\noaa\cls\inventory\xsd\gen2\DictionaryEntryType.class
+gov\noaa\cls\inventory\xsd\gen\DictionaryEntryType.class
+gov\noaa\cls\inventory\xsd\gen\package-info.class
+gov\noaa\cls\inventory\xsd\gen\DictionaryType.class
+gov\noaa\cls\inventory\xsd\gen2\package-info.class
+gov\noaa\cls\inventory\xsd\gen\ObjectFactory.class
+gov\noaa\cls\inventory\xsd\gen2\DictionaryEntryListType.class
+gov\noaa\cls\inventory\xsd\gen2\DictionaryType.class
+gov\noaa\cls\inventory\xsd\gen2\ObjectFactory.class
+gov\noaa\cls\inventory\xsd\gen\DictionaryEntryListType.class
+com\mkyong\rest\HelloWorldService.class

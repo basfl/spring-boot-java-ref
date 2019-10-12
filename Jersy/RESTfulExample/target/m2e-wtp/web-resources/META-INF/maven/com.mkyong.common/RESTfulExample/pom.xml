@@ -1,0 +1,129 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mkyong.common</groupId>
+	<artifactId>RESTfulExample</artifactId>
+	<packaging>war</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>RESTfulExample Maven Webapp</name>
+	<url>http://maven.apache.org</url>
+
+	<repositories>
+		<repository>
+			<id>maven2-repository.java.net</id>
+			<name>Java.net Repository for Maven</name>
+			<url>http://download.java.net/maven/2/</url>
+			<layout>default</layout>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.8.2</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-server</artifactId>
+			<version>1.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-impl</artifactId>
+			<version>2.2.11</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-xjc</artifactId>
+			<version>2.2.11</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-core</artifactId>
+			<version>2.2.11</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jvnet.jaxb2.maven2</groupId>
+			<artifactId>maven-jaxb2-plugin</artifactId>
+			<version>0.12.3</version>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+		<finalName>RESTfulExample</finalName>
+
+
+		<!-- <plugins> <plugin> <artifactId>maven-compiler-plugin</artifactId> 
+			<configuration> <source>1.6</source> <target>1.6</target> </configuration> 
+			</plugin> <plugin> <groupId>org.codehaus.mojo</groupId> <artifactId>jaxb2-maven-plugin</artifactId> 
+			<version>${project.version}</version> <executions> <execution> <id>xjc</id> 
+			<goals> <goal>xjc</goal> </goals> </execution> </executions> <configuration> 
+			<packageName>com.example.myschema</packageName> <sources> <source>/RESTfulExample/src/main/resources/schema</source> 
+			</sources> </configuration> </plugin> -->
+		<!-- <plugin> <groupId>org.codehaus.mojo</groupId> <artifactId>jaxb2-maven-plugin</artifactId> 
+			<version>1.5</version> <executions> <execution> <goals> <goal>xjc</goal> 
+			</goals> </execution> </executions> <configuration> <schemaDirectory>${project.basedir}/src/main/resources/schema</schemaDirectory> 
+			<packageName>com.example.demo.gen2</packageName> <outputDirectory>${project.basedir}/src/main/java/com/example/myschema</outputDirectory> 
+			</configuration> </plugin> -->
+
+		<plugins>
+		
+				<plugin>
+					<groupId>org.jvnet.jaxb2.maven2</groupId>
+					<artifactId>maven-jaxb2-plugin</artifactId>
+					<version>0.12.3</version>
+					<executions>
+						<execution>
+							<id>add-source-for-demoapp</id>
+							<goals>
+								<goal>generate</goal>
+							</goals>
+							<configuration>
+								<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
+								<schemaIncludes>
+									<include>schema1.xsd</include>
+								</schemaIncludes>
+
+								<generateDirectory>${basedir}/src/main/java</generateDirectory>
+								<generatePackage>gov.noaa.cls.inventory.xsd.gen</generatePackage>
+								<!-- Other configuration options -->
+
+
+
+							</configuration>
+
+
+
+
+						</execution>
+
+						<execution>
+							<id>add-source-for-demoapp2</id>
+							<goals>
+								<goal>generate</goal>
+							</goals>
+							<configuration>
+								<schemaDirectory>${basedir}/src/main/resources/schema2</schemaDirectory>
+								<schemaIncludes>
+									<include>schema2.xsd</include>
+								</schemaIncludes>
+								<generateDirectory>${basedir}/src/main/java</generateDirectory>
+								<generatePackage>gov.noaa.cls.inventory.xsd.gen2</generatePackage>
+							</configuration>
+						</execution>
+					</executions>
+
+				</plugin>
+
+		
+		</plugins>
+
+	</build>
+
+</project>
