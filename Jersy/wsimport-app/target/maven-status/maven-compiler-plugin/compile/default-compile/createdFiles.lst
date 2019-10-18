@@ -1,0 +1,11 @@
+com\mycee\project\model\WsMath.class
+gov\noaa\cls\inventory\xsd\gen2\DictionaryEntryType.class
+com\mycee\project\model\ObjectFactory.class
+gov\noaa\cls\inventory\xsd\gen2\Dictionary.class
+gov\noaa\cls\inventory\xsd\gen2\package-info.class
+com\mycee\project\model\package-info.class
+com\mycee\project\model\MathService.class
+gov\noaa\cls\inventory\xsd\gen2\DictionaryEntryListType.class
+gov\noaa\cls\inventory\xsd\gen2\ObjectFactory.class
+com\mycee\project\model\Add.class
+com\mycee\project\model\Answer.class

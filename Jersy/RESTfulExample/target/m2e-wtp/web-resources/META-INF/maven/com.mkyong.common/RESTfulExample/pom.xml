@@ -73,55 +73,79 @@
 			</configuration> </plugin> -->
 
 		<plugins>
-		
-				<plugin>
-					<groupId>org.jvnet.jaxb2.maven2</groupId>
-					<artifactId>maven-jaxb2-plugin</artifactId>
-					<version>0.12.3</version>
-					<executions>
-						<execution>
-							<id>add-source-for-demoapp</id>
-							<goals>
-								<goal>generate</goal>
-							</goals>
-							<configuration>
-								<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
-								<schemaIncludes>
-									<include>schema1.xsd</include>
-								</schemaIncludes>
 
-								<generateDirectory>${basedir}/src/main/java</generateDirectory>
-								<generatePackage>gov.noaa.cls.inventory.xsd.gen</generatePackage>
-								<!-- Other configuration options -->
+			<plugin>
+				<groupId>org.jvnet.jaxb2.maven2</groupId>
+				<artifactId>maven-jaxb2-plugin</artifactId>
+				<version>0.12.3</version>
+				<executions>
+					<execution>
+						<id>add-source-for-demoapp</id>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+						<configuration>
+							<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
+							<schemaIncludes>
+								<include>schema1.xsd</include>
+							</schemaIncludes>
 
-
-
-							</configuration>
+							<generateDirectory>${basedir}/src/main/java</generateDirectory>
+							<generatePackage>gov.noaa.cls.inventory.xsd.gen</generatePackage>
+							<!-- Other configuration options -->
 
 
 
+						</configuration>
 
-						</execution>
 
-						<execution>
-							<id>add-source-for-demoapp2</id>
-							<goals>
-								<goal>generate</goal>
-							</goals>
-							<configuration>
-								<schemaDirectory>${basedir}/src/main/resources/schema2</schemaDirectory>
-								<schemaIncludes>
-									<include>schema2.xsd</include>
-								</schemaIncludes>
-								<generateDirectory>${basedir}/src/main/java</generateDirectory>
-								<generatePackage>gov.noaa.cls.inventory.xsd.gen2</generatePackage>
-							</configuration>
-						</execution>
-					</executions>
 
-				</plugin>
 
-		
+					</execution>
+
+					<execution>
+						<id>add-source-for-demoapp2</id>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+						<configuration>
+							<schemaDirectory>${basedir}/src/main/resources/schema2</schemaDirectory>
+							<schemaIncludes>
+								<include>schema2.xsd</include>
+							</schemaIncludes>
+							<generateDirectory>${basedir}/src/main/java</generateDirectory>
+							<generatePackage>gov.noaa.cls.inventory.xsd.gen2</generatePackage>
+						</configuration>
+					</execution>
+				</executions>
+
+			</plugin>
+			<!-- ************************************ -->
+
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>build-helper-maven-plugin</artifactId>
+				<version>1.7</version>
+				<executions>
+					<execution>
+						<id>reserve-network-port</id>
+						<goals>
+							<goal>reserve-network-port</goal>
+						</goals>
+						
+						<configuration>
+							<portNames>
+								<portName>9000</portName>
+							</portNames>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+
+			<!-- ************************************ -->
+
 		</plugins>
 
 	</build>
