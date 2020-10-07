@@ -741,7 +741,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5JRyEbWcEemC2cBDwVo8BA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_aF3MwNmwEemWyacId5xcww" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_5JTrcbWcEemC2cBDwVo8BA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_O52iEHbGEeqB246YiT5Ndg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_5JTrcbWcEemC2cBDwVo8BA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5JRyHrWcEemC2cBDwVo8BA" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -779,7 +779,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5JRyfLWcEemC2cBDwVo8BA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_aF9TYNmwEemWyacId5xcww" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_5JTrFbWcEemC2cBDwVo8BA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_O55laHbGEeqB246YiT5Ndg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_5JTrFbWcEemC2cBDwVo8BA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5JRyibWcEemC2cBDwVo8BA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1525,6 +1525,7 @@
   <bindingTables xmi:id="_5JSZFLWcEemC2cBDwVo8BA" bindingContext="_5JSZlLWcEemC2cBDwVo8BA"/>
   <bindingTables xmi:id="_5JSZFbWcEemC2cBDwVo8BA" bindingContext="_5JSZlbWcEemC2cBDwVo8BA"/>
   <bindingTables xmi:id="_5JSZFrWcEemC2cBDwVo8BA" bindingContext="_5JSZlrWcEemC2cBDwVo8BA"/>
+  <bindingTables xmi:id="_O3kqIXbGEeqB246YiT5Ndg" bindingContext="_O3kqIHbGEeqB246YiT5Ndg"/>
   <rootContext xmi:id="_5JSZF7WcEemC2cBDwVo8BA" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs and Windows" description="Either a dialog or a window is open">
     <children xmi:id="_5JSZGLWcEemC2cBDwVo8BA" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="A window is open">
       <children xmi:id="_5JSZGbWcEemC2cBDwVo8BA" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.platform" name="%bindingcontext.name.bindingView"/>
@@ -1661,6 +1662,7 @@
   <rootContext xmi:id="_5JSZlLWcEemC2cBDwVo8BA" elementId="org.springsource.ide.eclipse.quicksearch.actionSet" name="Auto::org.springsource.ide.eclipse.quicksearch.actionSet"/>
   <rootContext xmi:id="_5JSZlbWcEemC2cBDwVo8BA" elementId="org.springsource.ide.eclipse.commons.launch.actionSet" name="Auto::org.springsource.ide.eclipse.commons.launch.actionSet"/>
   <rootContext xmi:id="_5JSZlrWcEemC2cBDwVo8BA" elementId="com.springsource.sts.ide.ui.actionSet.workbench" name="Auto::com.springsource.sts.ide.ui.actionSet.workbench"/>
+  <rootContext xmi:id="_O3kqIHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.actionSet" name="Auto::org.tigris.subversion.subclipse.actionSet"/>
   <descriptors xmi:id="_5JSZl7WcEemC2cBDwVo8BA" elementId="org.eclipse.e4.ui.compatibility.editor" allowMultiple="true" category="org.eclipse.e4.primaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor">
     <tags>Editor</tags>
   </descriptors>
@@ -2282,6 +2284,42 @@
     <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.xtext.xtext.ui.graph"/>
     <tags>View</tags>
     <tags>categoryTag:Xtext</tags>
+  </descriptors>
+  <descriptors xmi:id="_OTj-IHbGEeqB246YiT5Ndg" elementId="com.collabnet.subversion.merge.views.MergeResultsView" label="Merge Results" iconURI="platform:/plugin/com.collabnet.subversion.merge/icons/merge.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.collabnet.subversion.merge.views.MergeResultsView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.collabnet.subversion.merge"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
+  </descriptors>
+  <descriptors xmi:id="_OTnBcHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.repository.RepositoriesView" label="SVN Repositories" iconURI="platform:/plugin/org.tigris.subversion.subclipse.ui/icons/full/cview16/repo_rep.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.tigris.subversion.subclipse.ui.repository.RepositoriesView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.tigris.subversion.subclipse.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
+  </descriptors>
+  <descriptors xmi:id="_OToPkHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.svnproperties.SvnPropertiesView" label="SVN Properties" iconURI="platform:/plugin/org.tigris.subversion.subclipse.ui/icons/full/cview16/props_view.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.tigris.subversion.subclipse.ui.svnproperties.SvnPropertiesView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.tigris.subversion.subclipse.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
+  </descriptors>
+  <descriptors xmi:id="_OTo2oHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.svnproperties.SvnRevPropertiesView" label="SVN Rev Properties" iconURI="platform:/plugin/org.tigris.subversion.subclipse.ui/icons/full/cview16/props_view.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.tigris.subversion.subclipse.ui.svnproperties.SvnRevPropertiesView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.tigris.subversion.subclipse.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
+  </descriptors>
+  <descriptors xmi:id="_OTpdsHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.annotations.AnnotateView" label="SVN Annotate" iconURI="platform:/plugin/org.tigris.subversion.subclipse.ui/icons/full/cview16/annotate_view.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.tigris.subversion.subclipse.ui.annotations.AnnotateView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.tigris.subversion.subclipse.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
+  </descriptors>
+  <descriptors xmi:id="_OTqEwHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.conflicts.TreeConflictsView" label="SVN Tree Conflicts" iconURI="platform:/plugin/org.tigris.subversion.subclipse.ui/icons/full/cview16/tree_conflicts_view.gif" tooltip="" category="SVN" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.tigris.subversion.subclipse.ui.conflicts.TreeConflictsView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.tigris.subversion.subclipse.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:SVN</tags>
   </descriptors>
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
@@ -3637,6 +3675,36 @@
   <commands xmi:id="_5JUO8bWcEemC2cBDwVo8BA" elementId="AUTOGEN:::org.springframework.ide.eclipse.aop.mylyn.ui.filter/org.springframework.ide.eclipse.beans.mylyn.ui.actions.filterSpringExplorerAction" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_5JUPF7WcEemC2cBDwVo8BA"/>
   <commands xmi:id="_5JUO8rWcEemC2cBDwVo8BA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.projectexplorer.filter/org.springframework.ide.eclipse.beans.mylyn.ui.actions.filterSpringExplorerAction" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_5JUPF7WcEemC2cBDwVo8BA"/>
   <commands xmi:id="_5JUO87WcEemC2cBDwVo8BA" elementId="AUTOGEN:::org.springframework.ide.eclipse.ui.navigator.springExplorer.sorting/org.springframework.ide.eclipse.ui.navigator.springExplorer.sortingAction" commandName="Sort" description="Sort" category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_ON8eUHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.synchronize" commandName="Synchronize with Repository" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eUXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.checkout" commandName="Checkout" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eUnbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.add" commandName="Add to Version Control" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eU3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.showannotation" commandName="Show Annotation" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eVHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.compareWithHead" commandName="Compare with Latest from Repository" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eVXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.unlock" commandName="Unlock" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eVnbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.lock" commandName="Lock..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eV3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.compareWithBase" commandName="Compare with Local Base Revision" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON8eWHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.cleanup" commandName="Refresh/Cleanup" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FYHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.compareWithBranchTag" commandName="Compare with Branch/Tag" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FYXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.showsvnproperties" commandName="Show Properties" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FYnbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.branchtag" commandName="Branch/Tag..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FY3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.setsvnproperty" commandName="Set Property..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FZHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.compareWithRevision" commandName="Compare with Revision on SVN Server" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FZXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.update" commandName="Update" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FZnbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.copy" commandName="Copy..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FZ3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.revert" commandName="Revert" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FaHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.switch" commandName="Switch to another Branch/Tag..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FaXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.export" commandName="Export..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FanbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.ignore" commandName="Add to svn:ignore" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9Fa3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.merge" commandName="Merge..." category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FbHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.commit" commandName="Commit" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9FbXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.showresourceinhistoryaction" commandName="Show History" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_ON9scHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.upgrade" commandName="Upgrade" category="_ON7QMXbGEeqB246YiT5Ndg"/>
+  <commands xmi:id="_OuowkHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.GenerateDiff" commandName="Create Patch..." description="compare your workspace contents with the server and generate a diff file that can be used as a patch file." category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_OupXoHbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.updateDialog" commandName="Update to Version..." description="Update" category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_OupXoXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.actions.ShowTreeConflictsAction" commandName="Show Tree Conflicts" category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_OupXonbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.resolve" commandName="Mark Resolved..." category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_OupXo3bGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.ui.editConflicts" commandName="Edit conflicts..." category="_5JUPF7WcEemC2cBDwVo8BA"/>
+  <commands xmi:id="_Ourz4HbGEeqB246YiT5Ndg" elementId="AUTOGEN:::org.tigris.subversion.subclipse.u.repoview_actions/org.tigris.subversion.ui.actions.NewRepositoryAction" commandName="Add SVN Repository" description="Add SVN Repository" category="_5JUPF7WcEemC2cBDwVo8BA"/>
   <addons xmi:id="_5JUO9LWcEemC2cBDwVo8BA" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_5JUO9bWcEemC2cBDwVo8BA" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_5JUO9rWcEemC2cBDwVo8BA" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
@@ -3704,4 +3772,5 @@
   <categories xmi:id="_5JUPNLWcEemC2cBDwVo8BA" elementId="org.eclipse.pde.runtime.spy.commands.category" name="Spy"/>
   <categories xmi:id="_5JUPNbWcEemC2cBDwVo8BA" elementId="org.eclipse.xtext.ui.category.refactoring" name="Refactoring" description="Refactoring Commands"/>
   <categories xmi:id="_5JUPNrWcEemC2cBDwVo8BA" elementId="org.springsource.ide.eclipse.quicksearch.commands.category" name="Quick Search Category"/>
+  <categories xmi:id="_ON7QMXbGEeqB246YiT5Ndg" elementId="org.tigris.subversion.subclipse.commandCategory" name="SVN" description="Actions that apply when working with SVN repositories"/>
 </application:Application>

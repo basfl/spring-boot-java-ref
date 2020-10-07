@@ -22,6 +22,11 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>javax.xml.bind</groupId>
+			<artifactId>jaxb-api</artifactId>
+			<version>2.4.0-b180830.0359</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
@@ -50,52 +55,124 @@
 				</executions>
 			</plugin>
 			<!-- -->
+
+			<!-- -->
+
 			<plugin>
+
 				<groupId>org.jvnet.jaxb2.maven2</groupId>
+
 				<artifactId>maven-jaxb2-plugin</artifactId>
-				<version>0.13.2</version>
+
+				<!-- <version>0.12.3</version> -->
+
+				<executions>
+
+					<execution>
+
+						<id>generate-common</id>
+
+						<goals>
+
+							<goal>generate</goal>
+
+						</goals>
+
+						<configuration>
+
+							<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
+
+							<schemaIncludes>
+
+								<include>common.xsd</include>
+
+							</schemaIncludes>
+
+							<generateDirectory>${basedir}/src/main/java</generateDirectory>
+
+							<generatePackage>com.common</generatePackage>
+
+							<!-- <xjbSources> <xjbSource>${basedir}/src/main/resources/schema/bindings.xjb</xjbSource> 
+								</xjbSources> -->
+						</configuration>
+
+					</execution>
+
+					<execution>
+
+						<id>x</id>
+
+						<goals>
+
+							<goal>generate</goal>
+
+						</goals>
+
+						<configuration>
+
+							<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
+
+							<schemaIncludes>
+
+								<include>x.xsd</include>
+
+							</schemaIncludes>
+
+							<generateDirectory>${basedir}/src/main/java</generateDirectory>
+
+							<generatePackage>com.x</generatePackage>
+
+						</configuration>
+
+					</execution>
+
+					<execution>
+
+						<id>y</id>
+
+						<goals>
+
+							<goal>generate</goal>
+
+						</goals>
+
+						<configuration>
+
+							<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
+
+							<schemaIncludes>
+
+								<include>y.xsd</include>
+
+							</schemaIncludes>
+
+							<generateDirectory>${basedir}/src/main/java</generateDirectory>
+
+							<generatePackage>com.y</generatePackage>
+
+						</configuration>
+
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>jaxb2-maven-plugin</artifactId>
+				<version>2.2</version>
 				<executions>
 					<execution>
-						<id>generate</id>
-						<phase>generate-sources</phase>
+						<id>xjc</id>
 						<goals>
-							<goal>generate</goal>
+							<goal>xjc</goal>
 						</goals>
 					</execution>
 				</executions>
 				<configuration>
-					<schemaDirectory>${basedir}/src/main/resources/schema</schemaDirectory>
-					<generateDirectory>${basedir}/src/main/java</generateDirectory>
-					<generatePackage>gov.noaa.cls.inventory.xsd.gen2</generatePackage>
-					<schemaIncludes>
-						<include>schema2.xsd</include>
-					</schemaIncludes>
-					<xjbSources>
-						<xjbSource>${basedir}/src/main/resources/schema/bindings.xjb</xjbSource>
-					</xjbSources>
-
-					<args>
-						<arg>-Xannotate</arg>
-					</args>
-					<plugins>
-						<plugin>
-							<groupId>org.jvnet.jaxb2_commons</groupId>
-							<artifactId>jaxb2-basics-annotate</artifactId>
-							<version>1.0.2</version>
-						</plugin>
-					</plugins>
+					<!-- The package of your generated sources -->
+					<packageName>com.example.myschema</packageName>
+					<sources>${basedir}/src/main/resources/schema/common.xsd</sources>
 				</configuration>
 			</plugin>
-			<plugin>
-				<inherited>true</inherited>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<configuration>
-					<source>1.7</source>
-					<target>1.7</target>
-				</configuration>
-			</plugin>
-			<!-- -->
 		</plugins>
 	</build>
 </project>

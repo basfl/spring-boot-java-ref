@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guru.springframework</groupId>
-	<artifactId>di-demo</artifactId>
+	<artifactId>di-demo-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 

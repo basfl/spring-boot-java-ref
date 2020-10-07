@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema version="1.0"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:x="http://test.org/common/x"
+    xmlns:y="http://test.org/common/y"
+    targetNamespace="http://test.org/common">
+
+  <xsd:import namespace="http://test.org/common/x" schemaLocation="x.xsd" />
+  <xsd:import namespace="http://test.org/common/y" schemaLocation="y.xsd" />
+
+  <xsd:complexType name="CustomerPayments">
+    <xsd:sequence>
+      <xsd:element name="customer" type="x:Customer" />
+      <xsd:element name="payments" type="y:Payments" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+</xsd:schema>

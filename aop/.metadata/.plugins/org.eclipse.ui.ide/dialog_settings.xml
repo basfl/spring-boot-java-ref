@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="installedFeatures">
+		<item value="com.coderplus.m2e.jaxws:0.0.1.201505100425"/>
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
 		<item value="org.aspectj:1.9.0.201805281636"/>
 		<item value="org.eclipse.ajdt:2.2.4.201805281636"/>
@@ -112,5 +113,16 @@
 		<item value="org.springsource.sts.cft:3.9.6.201809180749-RELEASE"/>
 		<item value="org.springsource.sts.package:3.9.6.201809180749-RELEASE-e49"/>
 		<item value="org.springsource.sts:3.9.6.201809180749-RELEASE"/>
+		<item value="org.tigris.subversion.clientadapter.svnkit.feature:1.8.12.3"/>
+		<item value="org.tigris.subversion.subclipse.graph.feature:4.2.0.1"/>
+		<item value="org.tigris.subversion.subclipse:4.3.0.201901172050"/>
 	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="597" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
 </section>

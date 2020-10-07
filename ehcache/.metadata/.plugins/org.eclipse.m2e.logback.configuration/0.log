@@ -1,0 +1,455 @@
+2020-10-07 11:12:59,415 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-07 18:20:28,913 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-07 18:23:22,829 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ehcache-demo:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:23:23,332 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE.pom
+2020-10-07 18:23:23,399 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE.pom
+2020-10-07 18:23:23,762 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE.pom
+2020-10-07 18:23:23,816 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE.pom
+2020-10-07 18:23:23,928 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.pom
+2020-10-07 18:23:23,989 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.pom
+2020-10-07 18:23:24,071 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.pom
+2020-10-07 18:23:24,122 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.pom
+2020-10-07 18:23:24,203 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom
+2020-10-07 18:23:24,262 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom
+2020-10-07 18:23:24,395 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom
+2020-10-07 18:23:24,455 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom
+2020-10-07 18:23:24,551 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom
+2020-10-07 18:23:24,605 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom
+2020-10-07 18:23:24,698 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.pom
+2020-10-07 18:23:24,757 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.pom
+2020-10-07 18:23:24,843 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.2/jackson-modules-java8-2.11.2.pom
+2020-10-07 18:23:24,898 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.2/jackson-modules-java8-2.11.2.pom
+2020-10-07 18:23:24,992 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.pom
+2020-10-07 18:23:25,050 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.pom
+2020-10-07 18:23:25,152 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.pom
+2020-10-07 18:23:25,215 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.pom
+2020-10-07 18:23:25,318 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE.pom
+2020-10-07 18:23:25,381 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE.pom
+2020-10-07 18:23:25,475 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38.pom
+2020-10-07 18:23:25,541 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38.pom
+2020-10-07 18:23:25,607 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom
+2020-10-07 18:23:25,674 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom
+2020-10-07 18:23:25,762 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38.pom
+2020-10-07 18:23:25,818 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38.pom
+2020-10-07 18:23:25,906 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.pom
+2020-10-07 18:23:25,965 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.pom
+2020-10-07 18:23:26,056 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE.pom
+2020-10-07 18:23:26,118 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE.pom
+2020-10-07 18:23:26,709 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE.jar
+2020-10-07 18:23:26,780 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE.jar
+2020-10-07 18:23:26,830 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE.jar
+2020-10-07 18:23:26,887 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE.jar
+2020-10-07 18:23:26,940 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar
+2020-10-07 18:23:27,603 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar
+2020-10-07 18:23:27,654 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar
+2020-10-07 18:23:27,728 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar
+2020-10-07 18:23:27,777 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar
+2020-10-07 18:23:27,946 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar
+2020-10-07 18:23:27,995 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.jar
+2020-10-07 18:23:28,064 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.jar
+2020-10-07 18:23:28,114 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.jar
+2020-10-07 18:23:28,201 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.jar
+2020-10-07 18:23:28,247 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.jar
+2020-10-07 18:23:28,301 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.jar
+2020-10-07 18:23:28,347 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE.jar
+2020-10-07 18:23:28,408 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE.jar
+2020-10-07 18:23:28,459 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38.jar
+2020-10-07 18:23:29,711 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38.jar
+2020-10-07 18:23:29,764 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar
+2020-10-07 18:23:29,901 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar
+2020-10-07 18:23:29,947 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38.jar
+2020-10-07 18:23:30,088 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38.jar
+2020-10-07 18:23:30,142 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar
+2020-10-07 18:23:30,702 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar
+2020-10-07 18:23:30,754 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.jar
+2020-10-07 18:23:31,138 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.jar
+2020-10-07 18:23:31,188 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE.jar
+2020-10-07 18:23:31,319 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE.jar
+2020-10-07 18:23:34,369 [Worker-0: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-07 18:23:34,372 [Worker-0: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-07 18:23:35,141 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/main/java
+2020-10-07 18:23:35,142 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:23:35,158 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:23:35,179 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/test/java
+2020-10-07 18:23:36,090 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:36,143 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.4.RELEASE/spring-boot-starter-web-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:36,143 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2020-10-07 18:23:36,147 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-07 18:23:36,259 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.3.4.RELEASE
+2020-10-07 18:23:36,311 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:36,369 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.4.RELEASE/spring-boot-starter-json-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:36,416 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.3.4.RELEASE
+2020-10-07 18:23:36,479 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2-sources.jar
+2020-10-07 18:23:37,041 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2-sources.jar
+2020-10-07 18:23:37,089 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.11.2
+2020-10-07 18:23:37,140 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2-sources.jar
+2020-10-07 18:23:37,207 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2-sources.jar
+2020-10-07 18:23:37,256 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.11.2
+2020-10-07 18:23:37,308 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2-sources.jar
+2020-10-07 18:23:37,489 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2-sources.jar
+2020-10-07 18:23:37,537 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.11.2
+2020-10-07 18:23:37,613 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2-sources.jar
+2020-10-07 18:23:37,665 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2-sources.jar
+2020-10-07 18:23:37,722 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.2
+2020-10-07 18:23:37,777 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2-sources.jar
+2020-10-07 18:23:37,844 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2-sources.jar
+2020-10-07 18:23:37,896 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2
+2020-10-07 18:23:37,903 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ehcache-demo:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:23:37,950 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2-sources.jar
+2020-10-07 18:23:38,004 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2-sources.jar
+2020-10-07 18:23:38,053 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2
+2020-10-07 18:23:38,117 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:38,173 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.4.RELEASE/spring-boot-starter-tomcat-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:38,224 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:2.3.4.RELEASE
+2020-10-07 18:23:38,273 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38-sources.jar
+2020-10-07 18:23:39,584 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.38/tomcat-embed-core-9.0.38-sources.jar
+2020-10-07 18:23:39,777 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:9.0.38
+2020-10-07 18:23:40,378 [Worker-0: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-07 18:23:40,379 [Worker-0: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-07 18:23:40,387 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3-sources.jar
+2020-10-07 18:23:40,510 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3-sources.jar
+2020-10-07 18:23:40,558 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:jakarta.el:3.0.3
+2020-10-07 18:23:40,612 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38-sources.jar
+2020-10-07 18:23:40,704 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/main/java
+2020-10-07 18:23:40,709 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:23:40,724 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:23:40,736 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/test/java
+2020-10-07 18:23:40,740 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.38/tomcat-embed-websocket-9.0.38-sources.jar
+2020-10-07 18:23:40,809 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38
+2020-10-07 18:23:40,869 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE-sources.jar
+2020-10-07 18:23:41,332 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE-sources.jar
+2020-10-07 18:23:41,389 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.9.RELEASE
+2020-10-07 18:23:41,448 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE-sources.jar
+2020-10-07 18:23:41,798 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE-sources.jar
+2020-10-07 18:23:41,850 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.9.RELEASE
+2020-10-07 18:23:41,907 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:42,005 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.4.RELEASE/spring-boot-devtools-2.3.4.RELEASE-sources.jar
+2020-10-07 18:23:42,045 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE
+2020-10-07 18:23:42,545 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-10-07 18:23:44,308 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.3.4.RELEASE
+2020-10-07 18:23:44,317 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.3.4.RELEASE
+2020-10-07 18:23:44,322 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.11.2
+2020-10-07 18:23:44,332 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.11.2
+2020-10-07 18:23:44,337 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.11.2
+2020-10-07 18:23:44,350 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.2
+2020-10-07 18:23:44,355 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2
+2020-10-07 18:23:44,361 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2
+2020-10-07 18:23:44,366 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:2.3.4.RELEASE
+2020-10-07 18:23:44,371 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:9.0.38
+2020-10-07 18:23:44,376 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:jakarta.el:3.0.3
+2020-10-07 18:23:44,380 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38
+2020-10-07 18:23:44,385 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.9.RELEASE
+2020-10-07 18:23:44,393 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.9.RELEASE
+2020-10-07 18:23:44,403 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE
+2020-10-07 18:23:44,407 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:jakarta.el:3.0.3
+2020-10-07 18:23:44,411 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38
+2020-10-07 18:23:44,414 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.9.RELEASE
+2020-10-07 18:23:44,420 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.9.RELEASE
+2020-10-07 18:23:44,423 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE
+2020-10-07 18:23:44,427 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.9.RELEASE
+2020-10-07 18:23:44,435 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.9.RELEASE
+2020-10-07 18:23:44,441 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE
+2020-10-07 18:23:47,993 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:23:48,002 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:23:48,028 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:23:48,032 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:23:48,033 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:23:49,743 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:23:49,747 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:23:49,748 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:23:49,752 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:23:49,753 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:24:27,723 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:24:27,760 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:24:27,763 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:24:27,766 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:24:27,766 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:24:29,914 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:24:29,914 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:24:29,914 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:24:29,917 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:24:29,917 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:25:07,407 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:25:07,409 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:25:07,412 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:25:07,414 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:25:07,415 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:25:27,409 [Worker-0: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:25:27,410 [Worker-0: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:25:33,008 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:25:33,011 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:25:33,014 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:25:33,017 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:25:33,017 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:26:30,743 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:26:30,746 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:26:30,750 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:26:30,753 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:26:30,754 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:26:35,284 [Worker-8: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:26:35,284 [Worker-8: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:26:41,787 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:26:41,789 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:26:41,792 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:26:41,796 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:26:41,797 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:27:18,932 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:27:18,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:27:18,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:27:18,935 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:27:18,935 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:27:25,366 [Worker-5: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:27:25,366 [Worker-5: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:27:30,818 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:27:30,822 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:27:30,828 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:27:30,832 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:27:30,832 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:05,077 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ehcache-demo:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:28:06,240 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:06,250 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:06,251 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:06,255 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:06,255 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:07,998 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:08,001 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:28:08,023 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:08,025 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:08,025 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:10,124 [Worker-10: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:28:10,124 [Worker-10: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:28:10,125 [Worker-10: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-10-07 18:28:19,848 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:19,852 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:28:19,859 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:19,862 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:19,864 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:28,991 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ehcache-demo:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:28:30,035 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:30,040 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:30,040 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:30,043 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:30,044 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:32,166 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:32,168 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:28:32,190 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:32,192 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:32,193 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:33,693 [Worker-7: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:28:33,693 [Worker-7: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:28:48,049 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:48,052 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:28:48,055 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:28:48,059 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:28:48,060 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:28:53,508 [Worker-5: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:28:53,508 [Worker-5: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:29:37,409 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-07 18:29:38,338 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ehcache-demo:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:29:39,155 [Worker-1: Updating Maven Project] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-07 18:29:39,157 [Worker-1: Updating Maven Project] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-07 18:29:39,323 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/main/java
+2020-10-07 18:29:39,323 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:29:39,324 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:29:39,325 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/test/java
+2020-10-07 18:29:39,572 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-10-07 18:29:40,581 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:29:40,582 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:29:40,606 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:29:40,609 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:29:40,610 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:29:48,802 [Worker-14: Launching Executing clean in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:29:48,802 [Worker-14: Launching Executing clean in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2020-10-07 18:29:53,121 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:29:53,126 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:29:53,130 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:29:53,132 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:29:53,132 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:30:01,350 [Worker-1: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:30:01,350 [Worker-1: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:30:06,911 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:06,914 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:30:06,917 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:30:06,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:06,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:30:35,073 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:35,074 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:30:35,074 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:30:35,079 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:35,080 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:30:40,485 [Worker-14: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:30:40,485 [Worker-14: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:30:46,076 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:46,080 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:30:46,087 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:30:46,091 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:30:46,091 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:32:02,904 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-07 18:32:24,292 [Worker-7: Launching ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:32:24,292 [Worker-7: Launching ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:33:46,664 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:33:47,275 [Worker-7: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-07 18:33:47,275 [Worker-7: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-07 18:33:47,404 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/main/java
+2020-10-07 18:33:47,405 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:33:47,411 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:33:47,422 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/test/java
+2020-10-07 18:33:47,693 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-10-07 18:33:47,694 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-07 18:33:48,254 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:33:48,940 [Worker-7: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-07 18:33:48,941 [Worker-7: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-07 18:33:49,077 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/main/java
+2020-10-07 18:33:49,077 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:33:49,079 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ehcache-demo/src/main/resources
+2020-10-07 18:33:49,085 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ehcache-demo/src/test/java
+2020-10-07 18:33:49,243 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-07 18:33:50,211 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:33:50,212 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:33:50,226 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:33:50,228 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:33:50,228 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:34:15,052 [Worker-0: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:34:15,052 [Worker-0: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:34:18,669 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:34:18,672 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:34:18,674 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:34:18,676 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:34:18,677 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:35:04,091 [Worker-11: Launching ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:35:04,091 [Worker-11: Launching ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:36:27,703 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:27,704 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:36:27,706 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:36:27,708 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:27,708 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:36:33,135 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:36:33,743 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:33,746 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:36:33,747 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:36:33,749 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:33,749 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:36:39,334 [Worker-8: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\ehcache\ehcache-demo
+2020-10-07 18:36:39,334 [Worker-8: Launching Executing install in C__Users_jupit_ide_ehcache_ehcache-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-10-07 18:36:54,253 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:54,254 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:36:54,270 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:36:54,271 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:36:54,271 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:37:54,789 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:37:55,261 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE.pom
+2020-10-07 18:37:55,317 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE.pom
+2020-10-07 18:37:55,391 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE.pom
+2020-10-07 18:37:55,447 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE.pom
+2020-10-07 18:37:55,506 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.pom
+2020-10-07 18:37:55,606 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.pom
+2020-10-07 18:37:55,670 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.6/ehcache-root-2.10.6.pom
+2020-10-07 18:37:55,723 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.6/ehcache-root-2.10.6.pom
+2020-10-07 18:37:55,780 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.22/ehcache-parent-2.22.pom
+2020-10-07 18:37:55,834 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.22/ehcache-parent-2.22.pom
+2020-10-07 18:37:56,019 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE.jar
+2020-10-07 18:37:56,071 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE.jar
+2020-10-07 18:37:56,127 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE.jar
+2020-10-07 18:37:56,325 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE.jar
+2020-10-07 18:37:56,372 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.jar
+2020-10-07 18:37:59,991 [Worker-11: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.jar
+2020-10-07 18:38:00,732 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:00,737 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:00,737 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:00,739 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:00,739 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:38:02,184 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:02,185 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:38:02,204 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:02,207 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:02,207 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:38:02,226 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE-sources.jar
+2020-10-07 18:38:02,276 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.4.RELEASE/spring-boot-starter-cache-2.3.4.RELEASE-sources.jar
+2020-10-07 18:38:02,312 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.3.4.RELEASE
+2020-10-07 18:38:02,367 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE-sources.jar
+2020-10-07 18:38:02,589 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.9.RELEASE/spring-context-support-5.2.9.RELEASE-sources.jar
+2020-10-07 18:38:02,626 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.9.RELEASE
+2020-10-07 18:38:02,692 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-sources.jar
+2020-10-07 18:38:04,618 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-sources.jar
+2020-10-07 18:38:04,657 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:2.10.6
+2020-10-07 18:38:05,015 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:05,015 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:05,015 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:05,016 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:05,016 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:38:17,014 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:17,015 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:38:17,016 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:38:17,021 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:38:17,021 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:38:28,436 [Worker-17: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-10-07 18:39:53,632 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:39:53,632 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:39:53,633 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:39:53,634 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:39:53,634 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:40:08,862 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ehcache-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\ehcache\ehcache-demo\pom.xml.
+2020-10-07 18:40:09,574 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:40:09,577 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:40:09,578 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:40:09,580 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:40:09,580 [Worker-7: Launching ehcache-demo - EhcacheDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:42:12,377 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:42:12,379 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:42:12,402 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:42:12,404 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:42:12,404 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:45:54,786 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:45:54,787 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:45:54,789 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:45:54,792 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:45:54,792 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:45:59,204 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:45:59,205 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:45:59,206 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:45:59,207 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:45:59,208 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:46:28,674 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:46:28,675 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:46:28,677 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:46:28,679 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:46:28,679 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:51:55,898 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:51:55,899 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:51:55,901 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:51:55,902 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:51:55,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:52:41,859 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:52:41,859 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:52:41,861 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:52:41,862 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:52:41,862 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:53:07,463 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:53:07,464 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:53:07,465 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:53:07,469 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:53:07,469 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources
+2020-10-07 18:56:11,160 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:56:11,161 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 18:56:11,162 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 18:56:11,164 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 18:56:11,164 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\ehcache\ehcache-demo\src\test\resources

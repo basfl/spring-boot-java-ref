@@ -1,0 +1,20 @@
+import java.text.*
+
+SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
+sdf.setTimeZone(TimeZone.getTimeZone("UTC"))
+ 
+ Closure echoIt={v1,v2->
+ 	return v1+v2
+ }
+
+def oneArge (closure,num1,num2){
+	return closure(num1,num2)*3
+}
+System.out.println "Hello World now: " + sdf.format(new Date())
+
+
+println "hello world!!!"
+
+println echoIt(1,2);
+
+println oneArge(echoIt,1,2)

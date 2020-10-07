@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.cache.ehcache.EhCacheManagerFactoryBean"/>
+<fullyQualifiedTypeName name="org.springframework.cache.ehcache.EhCacheCacheManager"/>
+<fullyQualifiedTypeName name="org.springframework.cache.annotation.EnableCaching"/>
+<fullyQualifiedTypeName name="org.springframework.cache.annotation.Cacheable"/>
+<fullyQualifiedTypeName name="org.springframework.boot.logging.log4j2.Log4J2LoggingSystem"/>
+</qualifiedTypeNameHistroy>

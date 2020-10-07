@@ -6550,3 +6550,225 @@ java.lang.NullPointerException: null
 2018-11-02 12:55:12,329 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-02 12:55:12,329 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\sfg-pet-clinic\pet-clinic-web\src\test\resources
 2018-12-06 00:26:50,250 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-01-30 19:01:49,679 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-30 19:02:59,204 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\jupit\ide\sts-workspaces\test\demo-test\pom.xml
+2020-01-30 19:03:00,800 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo-test:demo-test:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\test\demo-test\pom.xml.
+2020-01-30 19:03:01,677 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-test/src/main/java
+2020-01-30 19:03:01,683 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-test/src/test/java
+2020-01-30 19:03:01,795 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-01-30 19:03:02,608 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:02,608 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\demo-test\src\main\resources
+2020-01-30 19:03:02,611 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:02,611 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\demo-test\src\test\resources
+2020-01-30 19:03:05,914 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:05,915 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 19:03:05,915 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 19:03:05,918 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:05,918 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\test\resources
+2020-01-30 19:03:08,619 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:08,626 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 19:03:08,673 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 19:03:08,690 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:08,690 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app\src\test\resources
+2020-01-30 19:03:09,593 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:09,594 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 19:03:09,596 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-30 19:03:09,598 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:09,598 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\sfg-pet-clinic\pet-clinic-data\src\test\resources
+2020-01-30 19:03:11,716 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: guru.springframework:pet-clinic-data:0.0.1-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2020-01-30 19:03:11,750 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:11,750 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 19:03:11,755 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-01-30 19:03:11,774 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:11,775 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\sfg-pet-clinic\pet-clinic-web\src\test\resources
+2020-01-30 19:03:14,296 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Users\jupit\ide\sts-workspaces\spring-petclinic\.git
+2020-01-30 19:03:14,564 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.name 
+2020-01-30 19:03:14,565 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.email 
+2020-01-30 19:03:14,616 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.branch master
+2020-01-30 19:03:14,619 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = true
+2020-01-30 19:03:14,619 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -dirty
+2020-01-30 19:03:14,619 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2020-01-30 19:03:14,630 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-01-30 19:03:14,657 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-01-30 19:03:14,658 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [d49cc42ae5b0bb7532edeb96686959aeb2cad5dd]
+2020-01-30 19:03:14,767 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe d49cc42
+2020-01-30 19:03:14,767 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id d49cc42ae5b0bb7532edeb96686959aeb2cad5dd
+2020-01-30 19:03:14,767 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.abbrev d49cc42
+2020-01-30 19:03:14,789 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.dirty false
+2020-01-30 19:03:14,790 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.name Stephane Nicoll
+2020-01-30 19:03:14,790 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.email snicoll@pivotal.io
+2020-01-30 19:03:14,790 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.full Add missing repository definition
+2020-01-30 19:03:14,790 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.short Add missing repository definition
+2020-01-30 19:03:14,790 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.time 2018-10-06T10:40:10-0400
+2020-01-30 19:03:14,791 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.remote.origin.url https://github.com/spring-projects/spring-petclinic.git
+2020-01-30 19:03:14,812 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.tags 
+2020-01-30 19:03:14,817 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [d49cc42ae5b0bb7532edeb96686959aeb2cad5dd]
+2020-01-30 19:03:14,817 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-01-30 19:03:14,818 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-01-30 19:03:14,824 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.name 
+2020-01-30 19:03:14,830 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [d49cc42ae5b0bb7532edeb96686959aeb2cad5dd]
+2020-01-30 19:03:14,831 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-01-30 19:03:14,832 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-01-30 19:03:14,836 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.commit.count 
+2020-01-30 19:03:14,841 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.total.commit.count 619
+2020-01-30 19:03:14,846 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.time 2020-01-30T19:03:14-0500
+2020-01-30 19:03:14,846 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.version 2.1.0.BUILD-SNAPSHOT
+2020-01-30 19:03:14,847 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.host DESKTOP-5L3O9NV
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe-short d49cc42
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.email
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.host
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.dirty
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.remote.origin.url
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.name
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.total.commit.count
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.id.describe-short
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.user.email
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.time
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.message.full
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.version
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.message.short
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.id.abbrev
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.branch
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.name
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.commit.count
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.id.describe
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.id
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.tags
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.time
+2020-01-30 19:03:14,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.commit.user.name
+2020-01-30 19:03:14,860 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing properties file to [C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2020-01-30 19:03:17,181 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\jupit\ide\sts-workspaces\spring-petclinic/src/main/less
+2020-01-30 19:03:17,181 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing the mojo: 
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Wro4j Model path: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\src\main\wro\wro.xml
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - targetGroups: null
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - minimize: true
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreMissingResources: null
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - parallelProcessing: false
+2020-01-30 19:03:17,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - buildDirectory: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target
+2020-01-30 19:03:17,193 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - destinationFolder: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target
+2020-01-30 19:03:17,194 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - cssDestinationFolder: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target\classes\static\resources\css
+2020-01-30 19:03:18,026 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The following groups will be processed: [petclinic]
+2020-01-30 19:03:18,026 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target\classes\static\resources\css
+2020-01-30 19:03:18,029 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.css
+2020-01-30 19:03:22,491 [Worker-11: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - Less warnings are:
+2020-01-30 19:03:22,492 [Worker-11: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - 10:1 Cannot link source map. Css result location is not know and could not be deduced from input less source..
+2020-01-30 19:03:22,502 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - file size: petclinic.css -> 152399 bytes
+2020-01-30 19:03:22,502 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target\classes\static\resources\css\petclinic.css (152399 bytes)
+2020-01-30 19:03:22,502 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\jupit\ide\sts-workspaces\spring-petclinic\target
+2020-01-30 19:03:22,503 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.js
+2020-01-30 19:03:22,615 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:22,616 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 19:03:22,635 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-01-30 19:03:22,754 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:22,754 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring-petclinic\src\test\resources
+2020-01-30 19:03:25,096 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:25,097 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 19:03:25,098 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 19:03:25,111 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:25,111 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\spring5webapp\src\test\resources
+2020-01-30 19:03:35,852 [Worker-3: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_demo-test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\demo-test
+2020-01-30 19:03:35,853 [Worker-3: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_demo-test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-30 19:03:41,216 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:41,217 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\demo-test\src\main\resources
+2020-01-30 19:03:41,218 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:03:41,218 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\demo-test\src\test\resources
+2020-01-30 19:04:19,145 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo-test:demo-test:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\test\app-test\pom.xml.
+2020-01-30 19:04:19,395 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:19,395 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:04:19,396 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:19,397 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:04:20,776 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:20,777 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:04:20,779 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:20,780 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:04:26,826 [Worker-1: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\app-test
+2020-01-30 19:04:26,826 [Worker-1: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-30 19:04:30,960 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:30,960 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:04:30,962 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:30,962 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:04:59,114 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: app-test:app-test:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\test\app-test\pom.xml.
+2020-01-30 19:04:59,292 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:59,292 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:04:59,294 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:04:59,294 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:05:06,579 [Worker-9: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\app-test
+2020-01-30 19:05:06,579 [Worker-9: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-30 19:05:09,978 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:09,978 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:05:09,979 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:09,979 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:05:18,252 [Worker-16: Launching Executing clean in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\app-test
+2020-01-30 19:05:18,252 [Worker-16: Launching Executing clean in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-30 19:05:20,196 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:20,197 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:05:20,198 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:20,198 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 19:05:25,889 [Worker-16: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\app-test
+2020-01-30 19:05:25,889 [Worker-16: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_app-test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-30 19:05:29,488 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:29,489 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\main\resources
+2020-01-30 19:05:29,489 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 19:05:29,489 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\app-test\src\test\resources
+2020-01-30 20:47:16,732 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: guru.springframework:di-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\pom.xml.
+2020-01-30 20:47:17,440 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springframework:di-demo-2:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\pom.xml.
+2020-01-30 20:47:17,456 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: guru.springframework:di-demo-three:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-three\pom.xml.
+2020-01-30 20:47:18,792 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: guru.springframework:di-demo-three:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-three\pom.xml.
+2020-01-30 20:47:19,491 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springframework:di-demo-2:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\pom.xml.
+2020-01-30 20:47:19,650 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:19,650 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:19,650 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:19,652 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:19,652 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\test\resources
+2020-01-30 20:47:20,589 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:20,589 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:20,589 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:20,592 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:20,592 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\test\resources
+2020-01-30 20:47:33,791 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: guru.springframework:di-demo-3:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\pom.xml.
+2020-01-30 20:47:33,918 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: guru.springframework:di-demo-three:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-three\pom.xml.
+2020-01-30 20:47:34,417 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springframework:di-demo-2:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\pom.xml.
+2020-01-30 20:47:36,222 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:36,223 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:36,223 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\main\resources
+2020-01-30 20:47:36,225 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:47:36,225 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\spring5-di-demo-master\di-demo-2\src\test\resources
+2020-01-30 20:50:41,718 [Worker-22: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_joker-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\joker-app
+2020-01-30 20:50:41,719 [Worker-22: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_joker-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-01-30 20:50:51,795 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:50:51,801 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 20:50:51,815 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 20:50:51,817 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:50:51,818 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app\src\test\resources
+2020-01-30 20:52:12,098 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springframework.joker:jokeapp:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\pom.xml.
+2020-01-30 20:52:12,894 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:12,895 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 20:52:12,913 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 20:52:12,925 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:12,925 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\src\test\resources
+2020-01-30 20:52:14,604 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:14,607 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 20:52:14,608 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 20:52:14,616 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:14,616 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\src\test\resources
+2020-01-30 20:52:32,989 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springframework.joker:jokeapp-demo:0.0.1-SNAPSHOT @ C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\pom.xml.
+2020-01-30 20:52:33,551 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:33,555 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-30 20:52:33,555 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-30 20:52:33,557 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:33,557 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\src\test\resources
+2020-01-30 20:52:39,334 [Worker-4: Launching Executing clean in C__Users_jupit_ide_sts-workspaces_test_joker-app-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo
+2020-01-30 20:52:39,334 [Worker-4: Launching Executing clean in C__Users_jupit_ide_sts-workspaces_test_joker-app-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2020-01-30 20:52:41,968 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:41,970 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 20:52:41,989 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 20:52:41,998 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:41,998 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\src\test\resources
+2020-01-30 20:52:48,156 [Worker-22: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_joker-app-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo
+2020-01-30 20:52:48,156 [Worker-22: Launching Executing install in C__Users_jupit_ide_sts-workspaces_test_joker-app-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-01-30 20:52:57,348 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:57,349 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-30 20:52:57,351 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-01-30 20:52:57,352 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 20:52:57,353 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jupit\ide\sts-workspaces\test\joker-app-demo\src\test\resources
+2020-05-18 08:25:51,725 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
