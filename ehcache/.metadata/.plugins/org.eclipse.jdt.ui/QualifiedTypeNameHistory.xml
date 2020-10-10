@@ -9,4 +9,5 @@
 <fullyQualifiedTypeName name="org.springframework.cache.annotation.EnableCaching"/>
 <fullyQualifiedTypeName name="org.springframework.cache.annotation.Cacheable"/>
 <fullyQualifiedTypeName name="org.springframework.boot.logging.log4j2.Log4J2LoggingSystem"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
 </qualifiedTypeNameHistroy>
